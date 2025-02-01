@@ -16,7 +16,7 @@ This project focuses on building an ETL (Extract, Transform, Load) pipeline that
 ## Flow Diagram
 Please find below, the flow of actions which can be performed by a user in the application.
 
-![Flow Diagram]([https://github.com/VenkatDundi/ETL_Pipeline_RetailOrders/blob/main/snapshots/Structure.jpg](https://github.com/SidCodes0001/ETL-Pipeline-Retail-Orders/blob/main/Snapshots/Structure.jpg))
+![Flow Diagram](https://github.com/SidCodes0001/ETL-Pipeline-Retail-Orders/blob/main/Snapshots/Structure.jpg)
 
 ## Learning Outcomes  
 
