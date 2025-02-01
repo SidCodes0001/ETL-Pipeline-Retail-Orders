@@ -158,10 +158,10 @@ Ensure you have the following installed:
 
 ## **Snapshots**
 
-![Power BI Report Home](https://github.com/VenkatDundi/ETL_Pipeline_RetailOrders/blob/main/snapshots/report_home.png)   
+![Power BI Report Home](https://github.com/SidCodes0001/ETL-Pipeline-Retail-Orders/blob/main/Snapshots/report_home.png)
 
 
-![Power BI Report Home](https://github.com/VenkatDundi/ETL_Pipeline_RetailOrders/blob/main/snapshots/stored_procedure.png)   
+![Power BI Report Home](https://github.com/SidCodes0001/ETL-Pipeline-Retail-Orders/blob/main/Snapshots/stored_procedure.png)
 
 ## **Advancements**
 
